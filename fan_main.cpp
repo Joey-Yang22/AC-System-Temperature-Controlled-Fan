@@ -2,16 +2,11 @@
 //    
 
 
-/*       Name: Joey Yang | Email: jyang474@ucr.edu:
+/*       Name: Joey Yang | Email: joey.yang.j@gmail.com
 
-*          Discussion Section: 022
-
- *         Assignment: Lab #6, Exercise #3
-
- *          
-            Exercise Description:
-            This exercise implements AUTO mode functionality. 
-
+    
+Description:
+    This exercise implements AUTO mode functionality. 
     Measure the temperature using the thermistor.
     Display the temperature in degrees Fahrenheit (e.g., 70º F) on the second row of the LCD Screen.
     Update the temperature every 1 second
